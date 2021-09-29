@@ -49,7 +49,6 @@ Tested-With: GHC ==8.8.4 || ==8.10.4 || ==9.0.1
 extra-source-files:
   test/testcase/case1/case1.expect
   test/testcase/case1/case1
-  test/testcase/case1/case1.pot
   README.md
 
 library
